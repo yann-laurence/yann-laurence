@@ -37,22 +37,14 @@ Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturell
 
 
 ## Langues
-![Français](https://img.shields.io/badge/Français-Natif-002395?style=for-the-badge&logo=france&logoColor=white)
-![Anglais](https://img.shields.io/badge/Anglais-Professionnel-012169?style=for-the-badge&logo=unitedkingdom&logoColor=white)
+![Français](https://img.shields.io/badge/🇫🇷%20FRANÇAIS-002395?style=flat-square&logoColor=white)
+![Natif](https://img.shields.io/badge/NATIF-ED2939?style=flat-square&logoColor=white)
+&nbsp;
+![Anglais](https://img.shields.io/badge/🇬🇧%20ANGLAIS-012169?style=flat-square&logoColor=white)
+![Professionnel](https://img.shields.io/badge/PROFESSIONNEL-C8102E?style=flat-square&logoColor=white)
 
 
+## Certifications
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<!--
-**yann-laurence/yann-laurence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
