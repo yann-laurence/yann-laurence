@@ -41,7 +41,7 @@ Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturell
 ![Natif](https://img.shields.io/badge/NATIF-ED2939?style=flat-square&logoColor=white)
 &nbsp;
 ![Anglais](https://img.shields.io/badge/🇬🇧%20ANGLAIS-012169?style=flat-square&logoColor=white)
-![Professionnel](https://img.shields.io/badge/PROFESSIONNEL-C8102E?style=flat-square&logoColor=white)
+![Professionnel](https://img.shields.io/badge/PROFESSIONNEL_(B2)-C8102E?style=flat-square&logoColor=white)
 
 
 ## Certifications
