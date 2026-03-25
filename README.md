@@ -1,5 +1,5 @@
-## A propos de moi 🙋‍♂️
-Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturellement élargi mon profil vers la Data — non pas comme une rupture, mais comme une évolution logique. Dans un monde où les entreprises deviennent de plus en plus data-driven, maîtriser la donnée est devenu un levier stratégique incontournable. Passionné par l'essor de l'IA et des modèles prédictifs, je m'y forme activement pour combiner vision métier et compétences analytiques.
+# A propos de moi 🙋‍♂️
+Formé aux métiers du marketing et de la communication, j'ai récemment élargi mes compétences en y intégrant une dimension data et analytique, motivé à la fois par un intérêt personnel et par un choix stratégique. Conscient des évolutions technologiques et de l'impact de la data et de l'IA sur les métiers du marketing, je souhaite aujourd’hui développer un profil hybride capable d'accompagner les entreprises dans leur transformation data-driven.
 
 ## Réseaux sociaux 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-laurence/)
@@ -7,7 +7,7 @@ Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturell
 
 ## Outils 🧰
 
-### Analyse de données 🔬
+### Nettoyage/Analyse de données 🔬
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
