@@ -2,7 +2,7 @@
 Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturellement élargi mon profil vers la Data — non pas comme une rupture, mais comme une évolution logique. Dans un monde où les entreprises deviennent de plus en plus data-driven, maîtriser la donnée est devenu un levier stratégique incontournable. Passionné par l'essor de l'IA et des modèles prédictifs, je m'y forme activement pour combiner vision métier et compétences analytiques.
 
 ## Réseaux sociaux 🌐
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-laurence/)
 
 
 ## Outils 🧰
@@ -36,7 +36,7 @@ Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturell
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 
 
-## Langues
+## Langues 👾
 ![Français](https://img.shields.io/badge/🇫🇷%20FRANÇAIS-002395?style=flat-square&logoColor=white)
 ![Natif](https://img.shields.io/badge/NATIF-ED2939?style=flat-square&logoColor=white)
 &nbsp;
@@ -44,7 +44,7 @@ Après un Mastère en Marketing Digital et 4 ans en communication, j'ai naturell
 ![Professionnel](https://img.shields.io/badge/PROFESSIONNEL_(B2)-C8102E?style=flat-square&logoColor=white)
 
 
-## Certifications
+## Certifications ✅
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
